@@ -11,6 +11,6 @@ F = G \frac{m_1 m_2}{r^2}
 
 And the vectorial form :
 
-$
+```math
 \vec{F}_{12} = G \frac{m_1 m_2}{\|\vec{r}_{12}\|^3} \vec{r}_{12}
-$
+```
