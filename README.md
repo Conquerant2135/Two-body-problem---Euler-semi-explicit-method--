@@ -29,3 +29,6 @@ From this equation we can get the experession of the acceleration of the body :
 ```math
 \vec{a}_1 = G \cdot \frac{m_2}{\|\vec{r}_2 - \vec{r}_1\|^3} \cdot (\vec{r}_2 - \vec{r}_1)
 ``` 
+
+We will note that the equation of the acceleration of the other body is the same as it but we just swap 1 by 2 for the body mass and position
+
