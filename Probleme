@@ -1,0 +1,9 @@
+Nous avons 2 corps dans notre systeme : un gros et un petit
+On les appellera respectivement : "G" et "P"
+
+"p" gravitera autour de "G" dans le systeme . 
+"G" est fixe et "P" est mobile . "p" orbite autour de "G" dans un plan en 2D
+Seulement "G" exercera une force sur "P" (force gravitationnelle) et donc "P" ne fera pas de force sur "G".
+Donc le barycentre est immobile les equations du mouvement se reduisent donc a : 
+    R(t) = vt + r0
+
