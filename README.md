@@ -73,3 +73,16 @@ So we have 3 equations , 3 recurrent relation . We just need to set the initial 
   - [Euler semi-explicit](https://en.wikipedia.org/wiki/Semi-implicit_Euler_method)
   - [Two body problem](https://en.wikipedia.org/wiki/Two-body_problem)
   - [Fundamental of orbital mechanic](https://youtu.be/nJ_f1h49jfM?si=flBjnc48ZSH_9tj2)
+
+# Instalation
+On linux we ca compile and run
+  ```bash
+    $ javac -d . */*.java
+    $ java affichage.Main
+  ```
+On windows 
+  ```bash
+    javac body\Planet.java position\Point.java systeme\Systeme.java affichage\MaFenetre.java affichage\Main.java
+  ```
+
+Run is the same
