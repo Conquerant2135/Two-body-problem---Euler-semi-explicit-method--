@@ -46,5 +46,7 @@ So we have the equations :
 
 ```math
   \vec{v}_{n+1} &= \vec{v}_n + \vec{a}_n \, \Delta t \\
+```
+```math
   \vec{x}_{n+1} &= \vec{x}_n + \vec{v}_{n+1} \, \Delta t
 ```
