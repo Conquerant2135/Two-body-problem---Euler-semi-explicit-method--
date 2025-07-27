@@ -38,10 +38,12 @@ The semi-implicit Euler method can be applied to a pair of differential equation
 
 ```math
   \frac{dx}{dt} = f(t,v)
+```
+```math
   \frac{dv}{dt} = g(t,x)
 ```
+So we have the equations :
 
-So we have the equations : 
 ```math
   \vec{v}_{n+1} &= \vec{v}_n + \vec{a}_n \, \Delta t \\
   \vec{x}_{n+1} &= \vec{x}_n + \vec{v}_{n+1} \, \Delta t
