@@ -82,7 +82,7 @@ On linux we ca compile and run
   ```
 On windows 
   ```bash
-    javac body\Planet.java position\Point.java systeme\Systeme.java affichage\MaFenetre.java affichage\Main.java
-  ```
+    javac body\*.java position\*.java systeme\*.java affichage\*.java
+```
 
 Run is the same
