@@ -53,5 +53,13 @@ So we have the equations :
 
 With the acceleration as : 
 ```math
-  \vec{a}_{1} = G \frac{m_2}{\|\vec{r(t)}\|^3} \vec{r(t)}
+  \vec{a} = G \frac{m_2}{\|\vec{r(t)}\|^3} \vec{r(t)}
 ```
+Note that the m_2 is the mass of the other body . 
+Also :
+```math
+  \vec{r(t)} = \vec{x}_{n} 
+```
+
+So we have 3 equations , 3 recurrent relation . We just need to set the initial position and velocity . 
+
