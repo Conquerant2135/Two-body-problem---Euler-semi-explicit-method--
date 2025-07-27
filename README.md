@@ -5,9 +5,9 @@ This is a simple simulation of a stellar object revolving around another by usin
 We need to use the Newton laws of gravitation 
 In the scalar form :
 
-$
+```math
 F = G \frac{m_1 m_2}{r^2}
-$
+```
 
 And the vectorial form :
 
