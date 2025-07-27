@@ -51,15 +51,25 @@ So we have the equations :
   \vec{x}_{n+1} = \vec{x}_n + \vec{v}_{n+1} \, \Delta t
 ```
 
-With the acceleration as : 
+With the acceleration as :
 ```math
   \vec{a} = G \frac{m_2}{\|\vec{r(t)}\|^3} \vec{r(t)}
 ```
 Note that the m_2 is the mass of the other body . 
 Also :
 ```math
+  \vec{r(t)} = \vec{r}_{2} - \vec{r}_{1}  
+```
+```math
   \vec{r(t)} = \vec{x}_{n} 
 ```
 
-So we have 3 equations , 3 recurrent relation . We just need to set the initial position and velocity . 
+So we have 3 equations , 3 recurrent relation . We just need to set the initial position and velocity , we can get the acceleration by using the initial position 
 
+# Dependencies
+  You need to install java
+
+# Sources
+  - [Euler semi-explicit](https://en.wikipedia.org/wiki/Semi-implicit_Euler_method)
+  - [Two body problem](https://en.wikipedia.org/wiki/Two-body_problem)
+  - [Fundamental of orbital mechanic](https://youtu.be/nJ_f1h49jfM?si=flBjnc48ZSH_9tj2)
