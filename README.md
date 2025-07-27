@@ -7,7 +7,7 @@ We need to use the Newton laws of gravitation .
 In the scalar form :
 
 ```math
-F = G \frac{m_1 m_2}{r^2}
+F = G \frac{m_1 m_2}{d^2}
 ```
 
 And the vectorial form :
