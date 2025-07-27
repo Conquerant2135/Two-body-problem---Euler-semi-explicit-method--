@@ -50,3 +50,8 @@ So we have the equations :
 ```math
   \vec{x}_{n+1} = \vec{x}_n + \vec{v}_{n+1} \, \Delta t
 ```
+
+With the acceleration as : 
+```math
+  \vec{a}_{1} = G \frac{m_2}{\|\vec{r(t)}\|^3} \vec{r(t)}
+```
