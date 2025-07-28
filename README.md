@@ -1,4 +1,5 @@
 # Two body problem
+We will simulate the Earth-Moon system
 This is a simple simulation of a stellar object revolving around another by using the Euler semi-explicit method ( symplectic Euler ) 
 
 # Formulae
