@@ -36,7 +36,7 @@ public class Systeme extends JPanel {
         g2d.scale(1, -1);
 
         g2d.setColor(Color.BLUE);
-        g2d.fillOval((int) (M.getPosition().getX() / echelle), (int) (M.getPosition().getY() / echelle), (int) (M.getRayon() / echelle), (int) (M.getRayon() / echelle));
+        g2d.fillOval((int) (M.getPosition().getX() / echelle), (int) (M.getPosition().getY() / echelle), 60 , 60);
 
         g2d.setColor(Color.GRAY);
         g2d.fillOval((int) (m.getPosition().getX() / echelle), (int) (m.getPosition().getY() / echelle), 30, 30);
